@@ -1,4 +1,4 @@
-# git_podstawy_A
+# GIT
 
 ### Prosty projekt aplikacji html css
 
